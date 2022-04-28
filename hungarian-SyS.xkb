@@ -1255,7 +1255,7 @@ xkb_symbols "pc+hu(102_qwertz_dot_nodead)+inet(evdev)" {
     };
     key <AE09> {
         type= "FOUR_LEVEL",
-        symbols[Group1]= [               9,      parenright,           acute,       plusminus ]
+        symbols[Group1]= [               9,      parenright,           exclam,       plusminus ]
     };
     key <AE10> {
         type= "FOUR_LEVEL_SEMIALPHABETIC",
