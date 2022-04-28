@@ -20,6 +20,11 @@ Meg még pár apróság:
 
 A telepítő grafikus környezethez van kitalálva. A telepítéshez nem kell rendszergazda jog. Bejelentkezés után egy python program betölti a kiosztást, és figyel, ha USB billentyűzetet csatlakoztatnak, hogy újra betöltse.
 
+## A futtatáshoz szükséges
+
+- python 2 vagy 3
+- pip install pyudev
+
 ## Telepítés
 
 A telepítő display manager-es környezetben működik. Ha startx-et használsz, akkor az autostart script a desktop fileból menjen a .xinitrc-be
