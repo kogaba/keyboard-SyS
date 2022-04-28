@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Hungarian SyS keyboard layout
+Comment=Hungarian layout for developers
+Exec=sh -c "~/.local/share/hungarian-SyS/hungarian-SyS.py /usr/bin/xkbcomp ~/.local/share/hungarian-SyS/hungarian-SyS.xkb $DISPLAY"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+
+
